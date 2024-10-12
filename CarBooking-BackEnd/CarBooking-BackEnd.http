@@ -1,0 +1,6 @@
+@CarBooking_BackEnd_HostAddress = http://localhost:5203
+
+GET {{CarBooking_BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
